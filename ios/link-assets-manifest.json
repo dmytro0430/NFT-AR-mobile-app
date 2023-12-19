@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/DINRoundPro-Bold.ttf",
+      "sha1": "d779f5ca49fa3220c3e4c6b73fd068dc0dc43b1f"
+    },
+    {
+      "path": "assets/fonts/DINRoundPro-Light.ttf",
+      "sha1": "382544fd469cc076f9f8debfc39b1c04acbf30de"
+    },
+    {
+      "path": "assets/fonts/DINRoundPro-Medi.ttf",
+      "sha1": "46cb14257fac1c7e2234e57095e948955a38a246"
+    },
+    {
+      "path": "assets/fonts/DINRoundPro.ttf",
+      "sha1": "63ebd8416286867ec21a07708a3c0f8a5afddd58"
+    },
+    {
+      "path": "assets/fonts/TeamDescriptionFont.ttf",
+      "sha1": "5c76c90e6b191f276a0fede1b0877ccb77eabcdc"
+    }
+  ]
+}

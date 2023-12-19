@@ -1,0 +1,1 @@
+export { GalleryDetailsScreen } from './GalleryDetailsScreen';
